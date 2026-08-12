@@ -32,6 +32,14 @@ A collection of small machine learning projects focused on building a strong fou
 - Target leakage detection
 - Analysis of an imbalanced target variable
 
+### Car Price Prediction
+
+- EDA & data cleaning
+- Pipeline-based preprocessing
+- One-hot encoding & feature scaling
+- Feature selection
+- Linear Regression
+
 ## Tech Stack
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn
