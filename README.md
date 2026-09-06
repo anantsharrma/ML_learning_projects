@@ -31,6 +31,7 @@ A collection of small machine learning projects focused on building a strong fou
 - Classification-focused analysis
 - Target leakage detection
 - Analysis of an imbalanced target variable
+- Application of ensemble learning techniques (Bagging, Boosting, Voting, Stacking)
 
 ### Car Price Prediction
 
